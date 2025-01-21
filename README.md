@@ -39,7 +39,7 @@ El repositorio está organizado de la siguiente manera:
   - Rol: Líder de proyecto, desarrollo de modelos de Machine Learning.
 - [Jean ÁLvarez](https://github.com/JeanAlvarez21)
   - Rol: Ingeniero de datos, preparación y limpieza de datos.
-- [Álex Quishpe](https://github.com/integrante3)
+- [Álex Quishpe](https://github.com/AlexJavierQ)
   - Rol: Analista de datos, visualización y análisis de resultados.
 
 ## Contacto
