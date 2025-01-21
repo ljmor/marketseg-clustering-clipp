@@ -1,21 +1,7 @@
-# Machine Learning Algorithms for Analysis and Market Segmentation
+# Algoritmos de clustering y predicción para segmentación y análisis de mercado en la aplicación Clipp Eventos   
 
-This repository contains the entire process to implement the best algorithm for segment users
-and make targeted campaigns in the context of a
-mobile application *Clipp* and its **Events** section particularly.
+Desarrollar un sistema de análisis y marketing dirigido que permita segmentar usuarios de Clipp según sus preferencias, con el objetivo de ofrecerles anuncios personalizados de eventos de interés a través de banners, popups y notificaciones push-up dentro de la app, así como campañas por correo electrónico y WhatsApp. Para ello, se utilizará una plataforma de estudio de marketing impulsada por algoritmos de **Machine Learning** basados en los datos recolectados de los usuarios de la aplicación, que incluye ventas y preferencias de los mismos. Este sistema permitirá:
 
-## Testing Datasets
+**Identificar el perfil de los usuarios potenciales** para cada tipo de evento en base a datos existentes y nuevas variables útiles.
 
-The first step that we aplied was to implement a clustering algorithm over two e-commerce datasets obtained at *Kaggle* to make us an idea of how we need to work with this type of information.
-
-### Datasets at Kaggle
-
-#### Users Point of View
-
-* [Consumer Behavior and Shopping Habits Dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset?select=shopping_behavior_updated.csv)
-
-* [E-commerce Customer Behavior Dataset](https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset)
-
-#### Product Point of View
-
-* [Exploring E-commerce Trends](https://www.kaggle.com/datasets/muhammadroshaanriaz/e-commerce-trends-a-guide-to-leveraging-dataset)
+Este enfoque contribuirá a una mayor efectividad de las campañas de marketing, un mayor alcance del mercado de compras digital y una experiencia más personalizada y conveniente para los usuarios de Clipp.
