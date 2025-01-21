@@ -37,7 +37,7 @@ El repositorio está organizado de la siguiente manera:
 
 - [Luis Mora](https://github.com/ljmor)
   - Rol: Líder de proyecto, desarrollo de modelos de Machine Learning.
-- [Jean ÁLvarez](https://github.com/integrante2)
+- [Jean ÁLvarez](https://github.com/JeanAlvarez21)
   - Rol: Ingeniero de datos, preparación y limpieza de datos.
 - [Álex Quishpe](https://github.com/integrante3)
   - Rol: Analista de datos, visualización y análisis de resultados.
